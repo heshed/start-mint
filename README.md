@@ -202,6 +202,7 @@ sudo apt-get install ansible
 ## 참고
 - http://linuxmint.kr/
 - http://m.blog.daum.net/bagjunggyu/193 이것저것 프로그램
+- http://kwonnam.pe.kr/wiki/linux/inputmethod 입력기 잘 정리된 글
 
 
 ### 단축키 익히기
