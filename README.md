@@ -150,6 +150,18 @@ sudo apt-get install timeshift
 
 - https://www.code42.com/crashplan/
 
+### Battery Saving
+- tls
+- http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html
+```
+sudo add-apt-repository ppa:linrunner/tlp
+sudo apt-get update
+sudo apt-get install tlp tlp-rdw
+sudo tlp start
+
+# check
+sudo tlp-stat
+```
 
 ## Languages
 
