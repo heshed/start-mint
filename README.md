@@ -85,7 +85,7 @@ sudo apt-get update && sudo apt-get install shutter
 ## Chrome
 - https://www.google.com/chrome/browser/desktop/
 
-## Jebrains
+## Jetbrains
 - Intellij, PyCharm, Clion Linux 버전 받으면 됨
 
 ## KakaoTalk
